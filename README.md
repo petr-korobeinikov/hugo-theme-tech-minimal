@@ -17,3 +17,10 @@ hugo server \
   --gc \
   --noBuildLock
 ```
+
+## Thanks
+
+Special thanks to @jaspervdj for markdown lorem ipsum generator with HTTP API:
+
+- https://jaspervdj.be/lorem-markdownum/
+- https://github.com/jaspervdj/lorem-markdownum
