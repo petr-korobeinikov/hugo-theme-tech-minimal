@@ -43,6 +43,11 @@ footer {
   margin-top: 1rem;
 }
 
+h2 {
+  margin-bottom: 1em;
+  margin-top: 2em;
+}
+
 .site-header {
   padding-bottom: 1rem;
   padding-top: 2rem;
