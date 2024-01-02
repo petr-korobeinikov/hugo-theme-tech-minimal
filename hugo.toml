@@ -4,6 +4,7 @@ title = 'Hugo Theme Tech Minimal'
 
 [params]
 subtitle = 'Clean and minimal theme for tech blog'
+postsPerHomePage = 3
 
 [[menus.main]]
 name = 'Home'
