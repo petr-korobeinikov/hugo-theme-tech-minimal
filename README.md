@@ -15,7 +15,8 @@ hugo server \
   --source exampleSite \
   --buildDrafts \
   --gc \
-  --noBuildLock
+  --noBuildLock \
+  --noHTTPCache
 ```
 
 ## Thanks
