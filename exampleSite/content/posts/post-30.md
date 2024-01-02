@@ -2,6 +2,7 @@
 title = 'Cum vineta'
 date = 2024-01-02T02:50:35+03:00
 draft = true
+tags = ['red', 'purple']
 +++
 
 ## Qui est aranea fuerant prece adsumere procumbit

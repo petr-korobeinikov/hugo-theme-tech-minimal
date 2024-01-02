@@ -2,6 +2,7 @@
 title = 'Dum ne legem genialis pedum dapibus'
 date = 2024-01-02T02:50:11+03:00
 draft = true
+tags = ['red']
 +++
 
 ## Per illa spatiis ictu tritumque tanto nondum

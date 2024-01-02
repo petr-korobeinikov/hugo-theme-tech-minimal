@@ -2,6 +2,7 @@
 title = 'Postquam referebam aurora crura ignara superosque haec'
 date = 2024-01-02T02:50:44+03:00
 draft = true
+tags = ['orange', 'gray']
 +++
 
 ## Similisque stipes

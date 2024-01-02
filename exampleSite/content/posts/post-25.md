@@ -2,6 +2,7 @@
 title = 'Ipse nec et sole Venilia'
 date = 2024-01-02T02:50:28+03:00
 draft = true
+tags = ['orange']
 +++
 
 ## Sceleris novavit sequi residentem ebiberant animorum evanuit

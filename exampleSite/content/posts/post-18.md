@@ -2,6 +2,7 @@
 title = 'Nocuisse explorat'
 date = 2024-01-02T02:50:17+03:00
 draft = true
+tags = ['magenta', 'red', 'green']
 +++
 
 ## Ipse cum

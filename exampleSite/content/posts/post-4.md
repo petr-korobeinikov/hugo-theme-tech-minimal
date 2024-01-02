@@ -2,6 +2,7 @@
 title = 'Morari sub arcanis certus'
 date = 2024-01-02T02:49:56+03:00
 draft = true
+tags = ['red']
 +++
 
 ## Tenebant instimulat ab ira ambit modo milite

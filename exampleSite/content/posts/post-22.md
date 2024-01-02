@@ -2,6 +2,7 @@
 title = 'Obrutaque numina mente'
 date = 2024-01-02T02:50:23+03:00
 draft = true
+tags = ['quux', 'faz']
 +++
 
 ## Foedera media raro nati carne damnosa
