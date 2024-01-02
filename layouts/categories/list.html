@@ -5,14 +5,12 @@
 
     {{ .Content }}
 
-    <ul>
-        {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
-            <li>{{ $key }}</li>
-            <ul>
-                {{ range $taxonomy.Pages }}
-                    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-                {{ end }}
-            </ul>
-        {{ end }}
-    </ul>
+    {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+        <h2>{{ $key }}</h2>
+        <ul>
+            {{ range $taxonomy.Pages }}
+                <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>
+    {{ end }}
 {{ end }}
