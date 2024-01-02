@@ -1,9 +1,14 @@
+html {
+  font-size: 150%;
+}
+
 body {
   color: #222;
-  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
   line-height: 1.5;
   margin: 1rem;
-  max-width: 768px;
+  max-width: 65ch;
 }
 
 header {
@@ -16,7 +21,22 @@ footer {
   margin-top: 1rem;
 }
 
+p {
+  line-height: 1.6em;
+  margin-bottom: 1.2em;
+}
+
 a {
   color: #00e;
   text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 100%;
+  }
+
+  body {
+    max-width: none;
+  }
 }
