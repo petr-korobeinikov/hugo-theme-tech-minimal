@@ -20,6 +20,8 @@ hugo server \
 
 ## Thanks
 
+This theme heavily inspired by vividvilla/ezhil.
+
 Special thanks to @jaspervdj for markdown lorem ipsum generator with HTTP API:
 
 - https://jaspervdj.be/lorem-markdownum/
