@@ -9,12 +9,20 @@
     --a-color: #ff7979;
   }
 
+  --html-font-size: 150%;
+  --body-max-width: 65ch;
+
+  @media (max-width: 600px) {
+    --html-font-size: 100%;
+    --body-max-width: none;
+  }
+
   background-color: var(--bg-color);
   color: var(--color);
 }
 
 html {
-  font-size: 150%;
+  font-size: var(--html-font-size);
 }
 
 body {
@@ -22,7 +30,7 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   margin: 1rem;
-  max-width: 65ch;
+  max-width: var(--body-max-width);
 }
 
 header {
@@ -73,14 +81,4 @@ p {
 a, a:hover {
   color: var(--a-color);
   text-decoration: none;
-}
-
-@media (max-width: 600px) {
-  html {
-    font-size: 100%;
-  }
-
-  body {
-    max-width: none;
-  }
 }
