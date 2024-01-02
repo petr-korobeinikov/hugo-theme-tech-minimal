@@ -14,11 +14,20 @@ body {
 header {
   border-bottom: 1px solid #222;
   margin-bottom: 1rem;
+  margin-top: 2rem;
 }
 
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
+}
+
+.site-header {
+  font-size: 2rem;
+}
+
+.site-subtitle {
+  font-size: 1.125rem;
 }
 
 p {

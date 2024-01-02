@@ -1,6 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hugo Theme Tech Minimal'
+
+[params]
+subtitle = 'Clean and minimal theme for tech blog'
 
 [[menus.main]]
 name = 'Home'

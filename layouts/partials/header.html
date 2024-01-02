@@ -1,2 +1,7 @@
-<h1>{{ site.Title }}</h1>
+<div class="site-header">{{ site.Title }}</div>
+
+{{- if isset .Site.Params "subtitle" -}}
+    <div class="site-subtitle">{{ site.Params.Subtitle }}</div>
+{{- end -}}
+
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
