@@ -1,9 +1,8 @@
 +++
-title = 'Post 6'
+title = 'Amor omnes'
 date = 2024-01-02T02:49:59+03:00
 draft = true
 +++
-# Amor omnes
 
 ## Fratri di capiunt pervia
 

@@ -1,9 +1,8 @@
 +++
-title = 'Post 35'
+title = 'In quem bipennis manibus'
 date = 2024-01-02T02:50:43+03:00
 draft = true
 +++
-# In quem bipennis manibus
 
 ## Madefactaque omne
 
@@ -40,18 +39,20 @@ Salmacis quorum. Tu multi **infantem** se currum *mearum* faciente, profanis
 ultra removerat fateor limina Phantasos placavit attactu. Dolebo cape munere
 fessos victoremque alite pater subducere parenti. Ergo inponere.
 
-    var metaPciThermistor = netbios_esports;
-    if (5) {
-        jpegAspDelete(drive_windows_lcd);
-        xslt += 2;
-        led_social_pop = dataVdsl(kibibyte_software_edi) + 4 * word;
-    }
-    var design = -4 * downloadGrepRecursive;
-    if (4) {
-        controller -= masterTutorialGopher(record_copyright_topology,
-                service_os) + system_internal - mode;
-    }
-    copyright_inbox = beta_vlb / leakRwNtfs - -1;
+```js
+var metaPciThermistor = netbios_esports;
+if (5) {
+    jpegAspDelete(drive_windows_lcd);
+    xslt += 2;
+    led_social_pop = dataVdsl(kibibyte_software_edi) + 4 * word;
+}
+var design = -4 * downloadGrepRecursive;
+if (4) {
+    controller -= masterTutorialGopher(record_copyright_topology,
+            service_os) + system_internal - mode;
+}
+copyright_inbox = beta_vlb / leakRwNtfs - -1;
+```
 
 ## Vindice est Curibus quem labores submittere revelli
 

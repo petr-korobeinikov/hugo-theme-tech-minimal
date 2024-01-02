@@ -1,9 +1,8 @@
 +++
-title = 'Post 30'
+title = 'Cum vineta'
 date = 2024-01-02T02:50:35+03:00
 draft = true
 +++
-# Cum vineta
 
 ## Qui est aranea fuerant prece adsumere procumbit
 

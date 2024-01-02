@@ -1,9 +1,8 @@
 +++
-title = 'Post 21'
+title = 'Repulso dabat qui da curasque crimen'
 date = 2024-01-02T02:50:22+03:00
 draft = true
 +++
-# Repulso dabat qui da curasque crimen
 
 ## O potest moles sunt ignis et iugulum
 

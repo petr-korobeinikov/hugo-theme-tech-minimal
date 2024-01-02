@@ -1,9 +1,8 @@
 +++
-title = 'Post 25'
+title = 'Ipse nec et sole Venilia'
 date = 2024-01-02T02:50:28+03:00
 draft = true
 +++
-# Ipse nec et sole Venilia
 
 ## Sceleris novavit sequi residentem ebiberant animorum evanuit
 

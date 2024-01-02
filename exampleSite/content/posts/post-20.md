@@ -1,9 +1,8 @@
 +++
-title = 'Post 20'
+title = 'Vel inpressa non caesis tamen'
 date = 2024-01-02T02:50:20+03:00
 draft = true
 +++
-# Vel inpressa non caesis tamen
 
 ## Et bella temeraria pauca relinquit tellus
 

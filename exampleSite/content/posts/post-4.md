@@ -1,9 +1,8 @@
 +++
-title = 'Post 4'
+title = 'Morari sub arcanis certus'
 date = 2024-01-02T02:49:56+03:00
 draft = true
 +++
-# Morari sub arcanis certus
 
 ## Tenebant instimulat ab ira ambit modo milite
 

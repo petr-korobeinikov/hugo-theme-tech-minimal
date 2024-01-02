@@ -1,9 +1,8 @@
 +++
-title = 'Post 11'
+title = 'Probavit facies'
 date = 2024-01-02T02:50:07+03:00
 draft = true
 +++
-# Probavit facies
 
 ## Accensus virgo oras nunc
 

@@ -1,9 +1,8 @@
 +++
-title = 'Post 7'
+title = 'Palaestina Romam sim editus calidi ad subit'
 date = 2024-01-02T02:50:01+03:00
 draft = true
 +++
-# Palaestina Romam sim editus calidi ad subit
 
 ## Sub minus
 

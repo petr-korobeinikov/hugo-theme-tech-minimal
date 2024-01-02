@@ -1,9 +1,8 @@
 +++
-title = 'Post 26'
+title = 'Squamigeris mori flammas Eurydicenque optare in tympana'
 date = 2024-01-02T02:50:29+03:00
 draft = true
 +++
-# Squamigeris mori flammas Eurydicenque optare in tympana
 
 ## Per centum verso
 

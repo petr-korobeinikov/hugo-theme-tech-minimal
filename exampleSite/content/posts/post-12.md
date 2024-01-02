@@ -1,9 +1,8 @@
 +++
-title = 'Post 12'
+title = 'Erroribus nubibus nobis nostroque'
 date = 2024-01-02T02:50:08+03:00
 draft = true
 +++
-# Erroribus nubibus nobis nostroque
 
 ## Lapsus animi
 

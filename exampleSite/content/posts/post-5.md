@@ -1,9 +1,8 @@
 +++
-title = 'Post 5'
+title = 'Ne deum temptat'
 date = 2024-01-02T02:49:58+03:00
 draft = true
 +++
-# Ne deum temptat
 
 ## Servandam induruit quem ora
 
