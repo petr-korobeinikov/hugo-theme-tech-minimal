@@ -1,0 +1,18 @@
+{{ define "main" }}
+    {{ if .Title }}
+        <h1>{{ .Title }}</h1>
+    {{ end }}
+
+    {{ .Content }}
+
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+            <li>{{ $key }}</li>
+            <ul>
+                {{ range $taxonomy.Pages }}
+                    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                {{ end }}
+            </ul>
+        {{ end }}
+    </ul>
+{{ end }}
