@@ -1,11 +1,17 @@
-<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300"
+      rel="stylesheet">
 
-{{- with resources.Get "css/main.css" }}
-  {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+{{ range slice "css/normalize.css" "css/main.css" }}
+    {{- with resources.Get . }}
+        {{- if eq hugo.Environment "development" }}
+            <link rel="stylesheet" href="{{ .RelPermalink }}">
+        {{- else }}
+            {{- with . | minify | fingerprint }}
+                <link rel="stylesheet"
+                      href="{{ .RelPermalink }}"
+                      integrity="{{ .Data.Integrity }}"
+                      crossorigin="anonymous">
+            {{- end }}
+        {{- end }}
     {{- end }}
-  {{- end }}
-{{- end }}
+{{ end }}
