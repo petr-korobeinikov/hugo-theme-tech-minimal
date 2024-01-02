@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  color: #222;
-  font-family: 'Roboto', sans-serif;
+  color: #555;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   margin: 1rem;
@@ -12,9 +12,8 @@ body {
 }
 
 header {
-  border-bottom: 1px solid #222;
-  margin-bottom: 1rem;
-  margin-top: 2rem;
+  font-family: 'Railway', sans-serif;
+  font-weight: 200;
 }
 
 footer {
@@ -23,6 +22,16 @@ footer {
 }
 
 .site-header {
+  padding-bottom: 1rem;
+  padding-top: 2rem;
+  border-bottom: 1px solid #222;
+}
+
+.site-header a, .site-header a:hover {
+  color: #555555;
+}
+
+.site-title{
   font-size: 2rem;
 }
 
@@ -35,8 +44,8 @@ p {
   margin-bottom: 1.2em;
 }
 
-a {
-  color: #00e;
+a, a:hover {
+  color: #a00;
   text-decoration: none;
 }
 

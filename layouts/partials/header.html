@@ -1,7 +1,11 @@
-<div class="site-header">{{ site.Title }}</div>
+<div class="site-header">
+    <div class="site-title">
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    </div>
 
-{{- if isset .Site.Params "subtitle" -}}
-    <div class="site-subtitle">{{ site.Params.Subtitle }}</div>
-{{- end -}}
+    {{- if isset .Site.Params "subtitle" -}}
+        <div class="site-subtitle">{{ site.Params.Subtitle }}</div>
+    {{- end -}}
+</div>
 
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
