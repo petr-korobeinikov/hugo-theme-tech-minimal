@@ -1,9 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Hugo Theme Tech Minimal'
+title = 'Tech Minimal'
 
 [params]
-subtitle = 'Clean and minimal theme for tech blog'
+subtitle = 'Clean, minimal, and adaptive theme for tech blog'
 postsPerHomePage = 3
 
 [[menus.main]]
