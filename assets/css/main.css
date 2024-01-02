@@ -83,3 +83,11 @@ a, a:hover {
   color: var(--a-color);
   text-decoration: none;
 }
+
+pre {
+  overflow-x: scroll;
+}
+
+pre code {
+  white-space: pre;
+}
