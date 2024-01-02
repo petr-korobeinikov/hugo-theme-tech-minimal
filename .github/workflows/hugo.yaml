@@ -56,6 +56,10 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo \
+            --themesDir ../.. \
+            --theme hugo-theme-tech-minimal \
+            --source exampleSite \
+            --buildDrafts \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
