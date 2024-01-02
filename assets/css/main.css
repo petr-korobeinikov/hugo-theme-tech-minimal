@@ -28,6 +28,7 @@ html {
 body {
   font-family: 'Ubuntu', sans-serif;
   font-size: 1rem;
+  font-weight: 100;
   line-height: 1.5;
   margin: 1rem;
   max-width: var(--body-max-width);
