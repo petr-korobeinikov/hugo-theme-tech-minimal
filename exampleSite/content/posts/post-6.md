@@ -3,6 +3,7 @@ title = 'Amor omnes'
 date = 2024-01-02T02:49:59+03:00
 draft = true
 tags = ['orange', 'gray']
+categories = ['tooling']
 +++
 
 ## Fratri di capiunt pervia

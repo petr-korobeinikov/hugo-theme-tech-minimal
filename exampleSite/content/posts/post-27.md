@@ -3,6 +3,7 @@ title = 'Rictus fert nisi nepotis Ephyren utiliter poterentur'
 date = 2024-01-02T02:50:30+03:00
 draft = true
 tags = ['blue', 'gray']
+categories = ['tooling']
 +++
 
 ## Haut aristis aliquemque

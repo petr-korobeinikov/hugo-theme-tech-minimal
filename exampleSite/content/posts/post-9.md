@@ -3,6 +3,7 @@ title = 'Post 9'
 date = 2024-01-02T02:50:04+03:00
 draft = true
 tags = ['blue', 'red', 'green']
+categories = ['agile']
 +++
 # Deum furores exiguus deficis calcatis tarde et
 

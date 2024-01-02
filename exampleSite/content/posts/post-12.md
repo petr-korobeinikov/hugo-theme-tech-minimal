@@ -3,6 +3,7 @@ title = 'Erroribus nubibus nobis nostroque'
 date = 2024-01-02T02:50:08+03:00
 draft = true
 tags = ['quux', 'faz']
+categories = ['tooling']
 +++
 
 ## Lapsus animi

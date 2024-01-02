@@ -3,6 +3,7 @@ title = 'Vel inpressa non caesis tamen'
 date = 2024-01-02T02:50:20+03:00
 draft = true
 tags = ['red', 'purple']
+categories = ['tooling']
 +++
 
 ## Et bella temeraria pauca relinquit tellus

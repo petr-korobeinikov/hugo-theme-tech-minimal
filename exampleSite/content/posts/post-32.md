@@ -3,6 +3,7 @@ title = 'Querellis ignescere indicat fores lacrimas in dixit'
 date = 2024-01-02T02:50:38+03:00
 draft = true
 tags = ['quux', 'faz']
+categories = ['tooling']
 +++
 
 ## Summis iamque furiisque demissior noctes

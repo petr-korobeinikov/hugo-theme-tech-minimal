@@ -3,6 +3,7 @@ title = 'Ne deum temptat'
 date = 2024-01-02T02:49:58+03:00
 draft = true
 tags = ['orange']
+categories = ['tooling']
 +++
 
 ## Servandam induruit quem ora

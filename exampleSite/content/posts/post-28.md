@@ -3,6 +3,7 @@ title = 'Credulitate patruo respondere terram convivia ferro omnia'
 date = 2024-01-02T02:50:32+03:00
 draft = true
 tags = ['magenta', 'red', 'green']
+categories = ['tooling']
 +++
 
 ## Acceptum protegit liquores procubuisse in inmutat parvis

@@ -3,6 +3,7 @@ title = 'Aequora Ausoniae desunt liquor'
 date = 2024-01-02T02:50:33+03:00
 draft = true
 tags = ['blue', 'red', 'green']
+categories = ['go']
 +++
 
 ## Sit nemus noctis poteras et usquam

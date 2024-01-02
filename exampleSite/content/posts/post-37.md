@@ -3,6 +3,7 @@ title = 'Num ille aether'
 date = 2024-01-02T02:50:46+03:00
 draft = true
 tags = ['blue', 'gray']
+categories = ['tooling']
 +++
 
 ## Ora adfuit iam

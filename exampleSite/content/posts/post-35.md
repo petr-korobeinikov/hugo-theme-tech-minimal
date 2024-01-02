@@ -3,6 +3,7 @@ title = 'In quem bipennis manibus'
 date = 2024-01-02T02:50:43+03:00
 draft = true
 tags = ['orange']
+categories = ['go']
 +++
 
 ## Madefactaque omne

@@ -3,6 +3,7 @@ title = 'Repulso dabat qui da curasque crimen'
 date = 2024-01-02T02:50:22+03:00
 draft = true
 tags = ['foo', 'bar']
+categories = ['tooling']
 +++
 
 ## O potest moles sunt ignis et iugulum
