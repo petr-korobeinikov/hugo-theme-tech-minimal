@@ -1,1 +1,5 @@
-<p>Copyright {{ now.Year }}. All rights reserved.</p>
+<p>
+    {{ with .Site.Copyright }}{{ . }}{{ end }}
+    Theme <a href="https://github.com/petr-korobeinikov/hugo-theme-tech-minimal">tech-minimal</a>.
+    Built with <a href="https://gohugo.io">Hugo</a>.
+</p>
