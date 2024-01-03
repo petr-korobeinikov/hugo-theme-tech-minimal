@@ -44,8 +44,12 @@ footer {
 }
 
 h2 {
-  margin-bottom: 1em;
-  margin-top: 2em;
+  margin-bottom: 0.25em;
+  margin-top: 1.75em;
+}
+
+h2:first-of-type {
+  margin-top: 1em;
 }
 
 .icon-svg {
