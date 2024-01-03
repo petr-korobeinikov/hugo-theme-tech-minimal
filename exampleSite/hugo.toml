@@ -3,11 +3,31 @@ languageCode = 'en-us'
 title = 'Tech Minimal'
 
 [[params.social]]
+name = "Telegram"
+icon = "telegram"
+url = "https://t.me/principalengineering"
+
+[[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://www.youtube.com/@principal-engineering"
+
+[[params.social]]
+name = "Gitlab"
+icon = "gitlab"
+url = "https://gitlab.com/principal-engineering"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/petr-korobeinikov/hugo-theme-tech-minimal"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/petr-korobeinikov/"
+
+#[[params.social]]
+#name = "RSS"
+#icon = "rss"
+#url = "/index.xml"
