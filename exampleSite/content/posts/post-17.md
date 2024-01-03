@@ -6,14 +6,14 @@ tags = ['blue', 'gray']
 categories = ['mindset']
 +++
 
-## Repugnat genitore vultu
-
 Lorem markdownum fugit, fiducia veri similemque, qui illinc venenum. Mea abunde
 nunc, trunca corporis per viro pacaverat sparsum oculosque. *Cum cum*, ire
 cruorem arvo: non ille iactasque *parte nate lucum* peregit sparsit cervice
 Antigonen. Tepidum florumque repugnat Ganymedes praeter e totidem, laudis ni
 parantem fluctus exercita. Erat pro quique vestigia [probor si
 spectent](http://monitis-honore.org/nigrisnon) adiciam ruunt quod: iussit.
+
+<!--more-->
 
 ## Cum si Alcyonen filia
 

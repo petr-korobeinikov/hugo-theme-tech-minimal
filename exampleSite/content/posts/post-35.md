@@ -6,12 +6,12 @@ tags = ['orange']
 categories = ['go']
 +++
 
-## Madefactaque omne
-
 Lorem markdownum indicet; et antra, quid Amyntor, arce funera. Rapiunt equos
 **deieci**, per celebrant primo, nova femina: litora est. Sub exspatiemur nobis
 sustinet, *vallibus aquis* nec rubor tunc sinuavi ratione redit signorum iubet,
 moriensque aerias frondibus desilit.
+
+<!--more-->
 
 ## Mater suo monte nec retexi te volucris
 

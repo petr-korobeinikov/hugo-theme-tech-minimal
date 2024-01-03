@@ -6,8 +6,6 @@ tags = ['foo', 'bar']
 categories = ['tooling']
 +++
 
-## O potest moles sunt ignis et iugulum
-
 Lorem markdownum, templa sociis mille, profectu urbis
 [ferox](http://genus-matrem.io/nec-loqui), vir poma simul ego; natus pone. Ferox
 maris et interdum modo, foramina **atris**, ut quam numina!
@@ -15,6 +13,8 @@ maris et interdum modo, foramina **atris**, ut quam numina!
 > Faciem teli primo et fulmina facta moenia haec nomina. Me ratem: dictas
 > quidem, flexuque fulserunt nando ipsam. Cervus obmutuit solacia, ira mihi
 > saevior iuratus agebatur nec passim stant.
+
+<!--more-->
 
 ## Ensis cerae turis moenia mihi pictos curva
 

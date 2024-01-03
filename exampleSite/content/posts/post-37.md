@@ -6,9 +6,9 @@ tags = ['blue', 'gray']
 categories = ['tooling']
 +++
 
-## Ora adfuit iam
-
 Lorem markdownum, tibi, tum stridore, avidosque indomitae Clytii! Phoebi peto!
+
+<!--more-->
 
 ## Huius via cum latebras
 

@@ -6,10 +6,10 @@ tags = ['baz']
 categories = ['tooling']
 +++
 
-## Fratri nec velocia Atlas amari fortisque
-
 Lorem markdownum quoque sorores opprobria Achilles, aut menti inmaduit altae.
 Pars nec fui coronantur anxia vocant armorum pater **utque** perque Atque.
+
+<!--more-->
 
 ## Cutem non quamvis vulnere furti
 

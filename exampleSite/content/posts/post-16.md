@@ -6,8 +6,6 @@ tags = ['orange', 'gray']
 categories = ['agile']
 +++
 
-## Velut dum amat
-
 Lorem markdownum nebulas genitor: atque
 [tot](http://illapossem.net/mirabantur-lassa.php) quoque vetat. Quantumque
 calidis semine? Tua atque, avsis virgo media excipit eodem **sub dabant**
@@ -21,6 +19,8 @@ Scopulum in reddit Phoebus: Cephalus conata sua sacra Phoebes montis Aesoniden
 vulneret Terram flens inventa non. Focos et virentes
 [certus](http://lucifer.com/suitecta.html) et Corythi ultra et negarit ruit
 Apollo nondum.
+
+<!--more-->
 
 ## Dis itque qui laetos illo creatus aera
 

@@ -6,8 +6,6 @@ tags = ['magenta', 'red', 'green']
 categories = ['mindset']
 +++
 
-## Petiere parte
-
 Lorem markdownum nemorum [reliquit](http://meumcernis.org/superbussororum),
 tonitrua iusta narrat poples cacumina en, *denique* criminis aetatis facit quod
 patriosque formas, acies? Celerique [datae](http://o-adimit.net/erigitur) et
@@ -15,6 +13,8 @@ longe specie merguntque [luctus concordes](http://satiset.net/) sequendo;
 [robora simulacra](http://nelei-decorum.io/habent-tamen.php). Partimque lugubre
 fontis: ubi raucum vestras in deos descendi, corpus aperto, vir. Suorum numina
 fluctus properant. Non est nitentes lapsas!
+
+<!--more-->
 
 Spectes vidit *sorores glomerataque* Anius adyto, linguam in subit, epotus,
 subposuere genitor. Remollescit lumina ad **sacros**. Te pater. Aeratas illa

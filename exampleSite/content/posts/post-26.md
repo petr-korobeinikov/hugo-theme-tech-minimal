@@ -6,8 +6,6 @@ tags = ['orange', 'gray']
 categories = ['dx']
 +++
 
-## Per centum verso
-
 Lorem markdownum ingreditur lucis expers Priamidas adspicio non tamen, queant
 illud inclinatoque quamquam. Numina forma concipit occupat, nectare [albida ad
 et](http://aere-qui.net/hic.aspx) Perseu caelestes coniectos sola. Poscere erat,
@@ -20,6 +18,8 @@ venit herbas, fidem arbore vetat vultusque Thracius.
 4. Se cutis capitisque funus nisi vultus
 5. Est iacuit eventusque
 6. Qui flammis inguine
+
+<!--more-->
 
 Numine capillo fallitque Tyrium longi ira virgaque mersa, tibi, clavae fortuna,
 possem aspicit domitos. Per putando omnes videre fecere. Sine ab quam antiqua

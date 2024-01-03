@@ -6,8 +6,6 @@ tags = ['blue', 'gray']
 categories = ['mindset']
 +++
 
-## Sub minus
-
 Lorem markdownum murra pater arduus, habitabile, vocatur pars fervebat
 hastilibus. An procul mora totidemque crimine promittit *fluctus*, sit illo
 mediis abest Caicus reticere quaerebat!
@@ -15,6 +13,8 @@ mediis abest Caicus reticere quaerebat!
 1. Ferum a nec quaeris noctem
 2. Locum pennis unum hoste quae solebat latrantibus
 3. Sanguine poenas
+
+<!--more-->
 
 ## Omnipotens prior nomen patrio numina et creditur
 

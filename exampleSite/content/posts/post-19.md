@@ -6,8 +6,6 @@ tags = ['blue', 'red', 'green']
 categories = ['dx']
 +++
 
-## Et nitidaeque inponi
-
 Lorem markdownum captae glaebae vocat rustica ingenio. Ante mutet antiquas
 venenis, curru? Me vacavit somnia violenta: nil Sol gesserit fratri aquilonibus
 Gradivo avulsa, **oppidaque**. Exigit causa. Nam **tonso**, sui terris solus
@@ -17,6 +15,8 @@ Querenti adiecerit vulgus ortus annum propriaque pondere, sua currus mihi [non
 Lapitheia leonis](http://ille.com/dubitaret-et.aspx), erat. Satum validos auro.
 Nam pietatem laesae conferat in sint latuit temone populisque Sparte dedecus.
 Mihi primum error stricto, Hac rates toto invita incidis totaque flores.
+
+<!--more-->
 
 Vina quamquam, custos, est dulce nulla vindicat. Tum unam, sic asper contigit et
 malis **Ixion propago**. Opus fama vocat obvia matre, da ad quem ferre et. Quem
