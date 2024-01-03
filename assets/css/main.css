@@ -53,6 +53,10 @@ article:first-of-type {
   margin-top: 3rem;
 }
 
+time {
+  color: #999;
+}
+
 .icon-svg {
   fill: none;
   stroke: var(--color);
