@@ -5,4 +5,8 @@
         <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
         {{ .Summary }}
     {{ end }}
+
+    <div>
+        <a href="{{ urls.JoinPath .Site.BaseURL "posts" }}">Read all posts &rarr;</a>
+    </div>
 {{ end }}
