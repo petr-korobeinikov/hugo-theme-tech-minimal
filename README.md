@@ -12,6 +12,12 @@
 
 ## Installation
 
+```shell
+git submodule add \
+  https://github.com/petr-korobeinikov/hugo-theme-tech-minimal \
+  themes/hugo-theme-tech-minimal
+```
+
 ## Configuration
 
 ## Page Speed
