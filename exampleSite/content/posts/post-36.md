@@ -9,7 +9,7 @@ categories = ['tooling']
 Lorem markdownum flagrat in stipite at quidem saepe quam longis? Facies carens.
 Casus umeri diu exercent exactum **medullas terras**, dona ima, per tuus.
 Credita tuae vitiaverit spectabat me procul Heliadum ac contingere inposuere in?
-Amor sim thyrsos currus.
+Amor sim thyrsos currus[^google].
 
 <!--more-->
 
@@ -57,7 +57,7 @@ venerisque rector pedes.
 
 Saucius odit similes fremit; adspicit, fuit puer
 [adest](http://esses.io/infansnomina) moveri matura bubo inplerant Alcidae,
-latet similes praetenta et. *Caesarumque* omnique falsi inde, unum sum Aegides
+latet similes praetenta et. *Caesarumque* omnique falsi inde[^wiki], unum sum Aegides
 turbant, feritatis me tractus passim. Non modo nutu raptum increscere exsilit
 ingeminat Frigus. Mea ex qui clipeo Troes corpusque tenebris invictos erat Iove
 est vidi inductas! Proceres ab Tereus tangit sine.
@@ -67,3 +67,6 @@ inque. Tamen hunc certe reddidit: teres flexum proferre adfata, pulsa laudisque
 vident ferarum Pelasgi Baccho. Ira qua Cecropis artus plura creatis laberis,
 vestes sceptrum sonus Midan et loquendo alium Persephones! Memor dedit, bracchia
 fide illa, eadem, saxa iam.
+
+[^google]: https://www.google.com/
+[^wiki]: https://www.wikipedia.org/
