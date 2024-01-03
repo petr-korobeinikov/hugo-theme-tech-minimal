@@ -5,9 +5,11 @@
 
     {{ .Content }}
 
-    <ul>
-        {{ range .Site.Taxonomies.tags }}
-            <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
-        {{ end }}
-    </ul>
+    <div class="tag-cloud">
+        <ul>
+            {{ range .Site.Taxonomies.tags }}
+                <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="count">{{ .Count }}</span></li>
+            {{ end }}
+        </ul>
+    </div>
 {{ end }}
