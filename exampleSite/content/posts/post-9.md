@@ -1,7 +1,7 @@
 +++
 title = 'Deum furores exiguus deficis calcatis tarde et'
 date = 2024-01-02T02:50:04+03:00
-draft = true
+draft = false
 tags = ['blue', 'red', 'green']
 categories = ['agile']
 +++

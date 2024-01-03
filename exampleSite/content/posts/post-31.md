@@ -1,7 +1,7 @@
 +++
 title = 'Vires cava silvarum alma'
 date = 2024-01-02T02:50:37+03:00
-draft = true
+draft = false
 tags = ['foo', 'bar']
 categories = ['go']
 +++

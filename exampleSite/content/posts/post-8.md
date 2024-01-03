@@ -1,7 +1,7 @@
 +++
 title = 'Dis in leve porrigitur menti pronus canibus'
 date = 2024-01-02T02:50:02+03:00
-draft = true
+draft = false
 tags = ['magenta', 'red', 'green']
 categories = ['mindset']
 +++

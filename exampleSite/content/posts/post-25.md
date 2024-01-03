@@ -1,7 +1,7 @@
 +++
 title = 'Ipse nec et sole Venilia'
 date = 2024-01-02T02:50:28+03:00
-draft = true
+draft = false
 tags = ['orange']
 categories = ['dx']
 +++

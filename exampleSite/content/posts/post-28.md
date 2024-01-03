@@ -1,7 +1,7 @@
 +++
 title = 'Credulitate patruo respondere terram convivia ferro omnia'
 date = 2024-01-02T02:50:32+03:00
-draft = true
+draft = false
 tags = ['magenta', 'red', 'green']
 categories = ['tooling']
 +++

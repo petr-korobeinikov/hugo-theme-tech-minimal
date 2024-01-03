@@ -1,7 +1,7 @@
 +++
 title = 'Num ille aether'
 date = 2024-01-02T02:50:46+03:00
-draft = true
+draft = false
 tags = ['blue', 'gray']
 categories = ['tooling']
 +++

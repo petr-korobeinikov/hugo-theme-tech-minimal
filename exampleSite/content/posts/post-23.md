@@ -1,7 +1,7 @@
 +++
 title = 'Mens glandes'
 date = 2024-01-02T02:50:25+03:00
-draft = true
+draft = false
 tags = ['baz']
 categories = ['dx']
 +++

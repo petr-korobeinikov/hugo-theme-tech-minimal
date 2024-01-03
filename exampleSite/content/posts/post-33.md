@@ -1,7 +1,7 @@
 +++
 title = 'Datque hora Graecia Latiis at locum dubito'
 date = 2024-01-02T02:50:39+03:00
-draft = true
+draft = false
 tags = ['baz']
 categories = ['tooling']
 +++

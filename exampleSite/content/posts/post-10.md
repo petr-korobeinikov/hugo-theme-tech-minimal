@@ -1,7 +1,7 @@
 +++
 title = 'Quod Cecropis neque agmen circumfususque Lyncides'
 date = 2024-01-02T02:50:05+03:00
-draft = true
+draft = false
 tags = ['red', 'purple']
 categories = ['tooling']
 +++

@@ -1,7 +1,7 @@
 +++
 title = 'Obrutaque numina mente'
 date = 2024-01-02T02:50:23+03:00
-draft = true
+draft = false
 tags = ['quux', 'faz']
 categories = ['tooling']
 +++

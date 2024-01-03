@@ -1,7 +1,7 @@
 +++
 title = 'Sigeia timenda femur etiam resolvit cum deae'
 date = 2024-01-02T02:50:18+03:00
-draft = true
+draft = false
 tags = ['blue', 'red', 'green']
 categories = ['dx']
 +++

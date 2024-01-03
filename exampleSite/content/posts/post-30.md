@@ -1,7 +1,7 @@
 +++
 title = 'Cum vineta'
 date = 2024-01-02T02:50:35+03:00
-draft = true
+draft = false
 tags = ['red', 'purple']
 categories = ['go']
 +++

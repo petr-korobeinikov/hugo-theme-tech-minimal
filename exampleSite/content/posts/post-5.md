@@ -1,7 +1,7 @@
 +++
 title = 'Ne deum temptat'
 date = 2024-01-02T02:49:58+03:00
-draft = true
+draft = false
 tags = ['orange']
 categories = ['tooling']
 +++
