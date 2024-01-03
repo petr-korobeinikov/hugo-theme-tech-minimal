@@ -2,10 +2,31 @@
     <div class="site-title">
         <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
     </div>
+    <div class="site-description">
+        {{- if isset .Site.Params "subtitle" -}}
+            <div class="site-subtitle">{{ site.Params.Subtitle }}</div>
+        {{- end -}}
 
-    {{- if isset .Site.Params "subtitle" -}}
-        <div class="site-subtitle">{{ site.Params.Subtitle }}</div>
-    {{- end -}}
+        <nav class="site-menu-social">
+            <ul>
+                <li>
+                    {{ partial "icons/telegram.html" }}
+                </li>
+                <li>
+                    {{ partial "icons/youtube.html" }}
+                </li>
+                <li>
+                    {{ partial "icons/gitlab.html" }}
+                </li>
+                <li>
+                    {{ partial "icons/github.html" }}
+                </li>
+                <li>
+                    {{ partial "icons/linkedin.html" }}
+                </li>
+            </ul>
+        </nav>
+    </div>
 </div>
 
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
