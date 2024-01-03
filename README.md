@@ -1,5 +1,7 @@
 # hugo-theme-tech-minimal
 
+![Home page screenshot](.readme/screenshot_dark_home.png)
+
 ## Features
 
 ## Installation
