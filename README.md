@@ -8,6 +8,10 @@
 
 ## Configuration
 
+## Page Speed
+
+- https://pagespeed.web.dev/analysis/https-petr-korobeinikov-github-io-hugo-theme-tech-minimal/b0m75saw5j?form_factor=desktop
+
 ## Development
 
 ```shell
