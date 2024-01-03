@@ -1,3 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Tech Minimal'
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/petr-korobeinikov/hugo-theme-tech-minimal"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"

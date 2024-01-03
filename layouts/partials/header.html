@@ -9,21 +9,14 @@
 
         <nav class="site-menu-social">
             <ul>
-                <li>
-                    {{ partial "icons/telegram.html" }}
-                </li>
-                <li>
-                    {{ partial "icons/youtube.html" }}
-                </li>
-                <li>
-                    {{ partial "icons/gitlab.html" }}
-                </li>
-                <li>
-                    {{ partial "icons/github.html" }}
-                </li>
-                <li>
-                    {{ partial "icons/linkedin.html" }}
-                </li>
+                {{- range $idx, $social := .Site.Params.Social -}}
+                    <li>
+                        <a href="{{ $social.url }}" title="{{ $social.name }}">
+                            {{ $partialIcon := path.Join "icons" (printf "%s.html" $social.icon) }}
+                            {{ partial $partialIcon }}
+                        </a>
+                    </li>
+                {{- end -}}
             </ul>
         </nav>
     </div>
