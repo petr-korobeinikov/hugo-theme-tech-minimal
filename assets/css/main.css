@@ -53,6 +53,28 @@ article:first-of-type {
   margin-top: 3rem;
 }
 
+h2 {
+  margin: 0;
+}
+
+p {
+  line-height: 1.6em;
+  margin-bottom: 1.6em;
+}
+
+a, a:hover {
+  color: var(--a-color);
+  text-decoration: none;
+}
+
+pre {
+  overflow-x: scroll;
+}
+
+pre code {
+  white-space: pre;
+}
+
 time {
   color: #999;
   font-size: smaller;
@@ -161,22 +183,4 @@ time {
   margin-left: .5rem;
   border-radius: .3rem;
   background-color: #f9f2f4;
-}
-
-p {
-  line-height: 1.6em;
-  margin-bottom: 1.2em;
-}
-
-a, a:hover {
-  color: var(--a-color);
-  text-decoration: none;
-}
-
-pre {
-  overflow-x: scroll;
-}
-
-pre code {
-  white-space: pre;
 }
