@@ -2,13 +2,7 @@
     {{ .Content }}
 
     {{ range first .Site.Params.postsPerHomePage site.RegularPages }}
-        <h2>
-            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            {{- if .Draft -}}
-                <span class="draft-label">draft</span>
-            {{- end -}}
-        </h2>
-        {{ .Summary }}
+        {{ partial "article.html" . }}
     {{ end }}
 
     <div>
