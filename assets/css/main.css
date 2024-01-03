@@ -2,11 +2,13 @@
   --bg-color: #fff;
   --color: #555;
   --a-color: #a00;
+  --a-color-post-tag: #a00;
 
   @media (prefers-color-scheme: dark) {
     --bg-color: #131516;
     --color: #ddd;
     --a-color: #ff7979;
+    --a-color-post-tag: #ddd;
   }
 
   --html-font-size: 150%;
@@ -126,6 +128,25 @@ h2:first-of-type {
 
 .tag-cloud .count {
   font-size: small;
+}
+
+.tag-cloud-post ul {
+  margin: 0;
+  padding: 0;
+}
+
+.tag-cloud-post ul li {
+  display: inline-block;
+  list-style: none;
+  margin-right: .3rem;
+}
+
+.tag-cloud-post a {
+  border: 1px solid var(--a-color-post-tag);
+  border-radius: 4px;
+  padding: .3rem .5rem;
+  color: var(--a-color-post-tag);
+  text-decoration: none;
 }
 
 .draft-label {
