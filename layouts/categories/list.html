@@ -9,7 +9,12 @@
         <h2>{{ $key }}</h2>
         <ul>
             {{ range $taxonomy.Pages }}
-                <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                <li>
+                    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+                    {{- if .Draft -}}
+                        <span class="draft-label">draft</span>
+                    {{- end -}}
+                </li>
             {{ end }}
         </ul>
     {{ end }}
