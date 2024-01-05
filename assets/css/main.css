@@ -6,11 +6,11 @@
   --blockquote-border-color: #a00;
 
   @media (prefers-color-scheme: dark) {
-    --bg-color: #131516;
-    --color: #ddd;
-    --a-color: #ff7979;
-    --a-color-post-tag: #ff7979;
-    --blockquote-border-color: #ff7979;
+    --bg-color: #181a1b;
+    --color: #aea89f;
+    --a-color: #ff5655;
+    --a-color-post-tag: #ff5655;
+    --blockquote-border-color: #ff5655;
   }
 
   --html-font-size: 150%;
