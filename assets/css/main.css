@@ -73,6 +73,8 @@ a, a:hover {
 
 pre {
   overflow-x: scroll;
+  padding: 1em;
+  margin: 2em 0;
 }
 
 pre code {
