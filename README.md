@@ -13,6 +13,7 @@
 - Automagically supports dark/light mode
 - Allows HTML markup in title
 - Allows HTML markup in subtitle
+- Strips footnote leftovers in summaries :heart_eyes_cat:
 
 ## Installation
 

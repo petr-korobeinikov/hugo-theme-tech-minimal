@@ -10,7 +10,7 @@
         {{- end -}}
     </h2>
 
-    {{ .Summary }}
+    {{ .Summary | replaceRE `<sup id=\"fnref:\d+\">.*</sup>` "" | safeHTML }}
 
     <div>
         <a href="{{ .RelPermalink }}">Read more &rarr;</a>
