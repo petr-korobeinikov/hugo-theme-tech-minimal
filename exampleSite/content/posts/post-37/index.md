@@ -15,6 +15,8 @@ Lorem markdownum, tibi, tum stridore, avidosque indomitae Clytii! Phoebi peto!
 Echo pressa Aeacides conponere absens, et sumere boves genus. Novum noctis,
 admovit neu; incingitur postes harundine impleverat.
 
+![Wide Image](img/wide.jpg)
+
 ## Di dura miserrimus vacavit tecti feriente auctor
 
 Et agros concutiens inposito causas possis Amphionis alieni tum: moves misit
