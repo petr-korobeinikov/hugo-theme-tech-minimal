@@ -1,6 +1,7 @@
 :root {
   --bg-color: #fff;
   --color: #555;
+  --border-color: #555;
   --a-color: #a00;
   --a-color-post-tag: #a00;
   --blockquote-border-color: #a00;
@@ -8,6 +9,7 @@
   @media (prefers-color-scheme: dark) {
     --bg-color: #181a1b;
     --color: #aea89f;
+    --border-color: #aea89f;
     --a-color: #ff5655;
     --a-color-post-tag: #ff5655;
     --blockquote-border-color: #ff5655;
@@ -43,7 +45,7 @@ header {
 }
 
 footer {
-  border-top: 1px solid #222;
+  border-top: 1px solid var(--border-color);
   margin-top: 1rem;
 }
 
@@ -73,6 +75,11 @@ blockquote {
   padding-left: 1rem;
   font-style: italic;
   border-left: 3px solid var(--blockquote-border-color);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
 }
 
 a, a:hover {
@@ -106,7 +113,7 @@ time {
 .site-header {
   padding-bottom: 1rem;
   padding-top: 2rem;
-  border-bottom: 1px solid #222;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .site-description {
