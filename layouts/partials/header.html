@@ -1,6 +1,6 @@
 <div class="site-header">
     <div class="site-title">
-        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title | safeHTML }}</a>
     </div>
     <div class="site-description">
         {{- if isset .Site.Params "subtitle" -}}
