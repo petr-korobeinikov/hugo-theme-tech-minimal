@@ -7,7 +7,7 @@ tag = 'tags'
 category = 'categories'
 
 [params]
-subtitle = 'Clean, minimal, and adaptive theme for tech blog'
+subtitle = 'Clean, minimal, and adaptive theme for tech blog<br>that allows HTML markup in subtitle'
 postsPerHomePage = 3
 
 [[menus.main]]

@@ -10,6 +10,8 @@
 
 ## Features
 
+1. Allows HTML markup in subtitle
+
 ## Installation
 
 ```shell

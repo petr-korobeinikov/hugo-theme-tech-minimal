@@ -4,7 +4,7 @@
     </div>
     <div class="site-description">
         {{- if isset .Site.Params "subtitle" -}}
-            <div class="site-subtitle">{{ site.Params.Subtitle }}</div>
+            <div class="site-subtitle">{{ site.Params.Subtitle | safeHTML }}</div>
         {{- end -}}
 
         <nav class="site-menu-social">
