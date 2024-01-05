@@ -10,7 +10,9 @@
 
 ## Features
 
-1. Allows HTML markup in subtitle
+- Automagically supports dark/light mode
+- Allows HTML markup in title
+- Allows HTML markup in subtitle
 
 ## Installation
 
