@@ -3,12 +3,14 @@
   --color: #555;
   --a-color: #a00;
   --a-color-post-tag: #a00;
+  --blockquote-border-color: #a00;
 
   @media (prefers-color-scheme: dark) {
     --bg-color: #131516;
     --color: #ddd;
     --a-color: #ff7979;
-    --a-color-post-tag: #ddd;
+    --a-color-post-tag: #ff7979;
+    --blockquote-border-color: #ff7979;
   }
 
   --html-font-size: 150%;
@@ -64,6 +66,13 @@ h2 {
 p {
   line-height: 1.6em;
   margin-bottom: 1.6em;
+}
+
+blockquote {
+  margin-left: 1rem;
+  padding-left: 1rem;
+  font-style: italic;
+  border-left: 3px solid var(--blockquote-border-color);
 }
 
 a, a:hover {
