@@ -6,7 +6,12 @@
   --a-color-post-tag: #a00;
   --blockquote-border-color: #a00;
 
-  @media (prefers-color-scheme: dark) {
+  --html-font-size: 150%;
+  --body-max-width: 65ch;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
     --bg-color: #181a1b;
     --color: #aea89f;
     --border-color: #aea89f;
@@ -14,11 +19,10 @@
     --a-color-post-tag: #ff5655;
     --blockquote-border-color: #ff5655;
   }
+}
 
-  --html-font-size: 150%;
-  --body-max-width: 65ch;
-
-  @media (max-width: 600px) {
+@media screen and (max-width: 600px) {
+  :root {
     --html-font-size: 100%;
     --body-max-width: none;
   }
