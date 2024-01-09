@@ -116,7 +116,6 @@ time {
 
 .site-header {
   padding-bottom: 1rem;
-  padding-top: 2rem;
   border-bottom: 1px solid var(--border-color);
 }
 
@@ -129,7 +128,7 @@ time {
   color: var(--color);
 }
 
-.site-title{
+.site-title {
   font-size: 2rem;
 }
 
