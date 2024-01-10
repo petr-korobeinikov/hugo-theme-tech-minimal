@@ -3,7 +3,7 @@ title = 'Erroribus nubibus nobis nostroque'
 date = 2024-01-02T02:50:08+03:00
 draft = false
 tags = ['quux', 'faz']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum atque viscera qua gerit mea sculpsit *omnem*. Iamdudum hominis

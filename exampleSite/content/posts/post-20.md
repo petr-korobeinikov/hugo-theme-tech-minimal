@@ -3,7 +3,7 @@ title = 'Vel inpressa non caesis tamen'
 date = 2024-01-02T02:50:20+03:00
 draft = false
 tags = ['red', 'purple']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum portat foramina: rexit vox in, ut sed, habent. Non potitus

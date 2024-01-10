@@ -3,7 +3,7 @@ title = 'Ne deum temptat'
 date = 2024-01-02T02:49:58+03:00
 draft = false
 tags = ['orange']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum nisi; fugit ambit Tritona sublimis nodosa ac suras ingratos qui

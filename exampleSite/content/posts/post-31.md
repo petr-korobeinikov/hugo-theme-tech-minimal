@@ -3,7 +3,7 @@ title = 'Vires cava silvarum alma'
 date = 2024-01-02T02:50:37+03:00
 draft = false
 tags = ['foo', 'bar']
-categories = ['go']
+categories = ['Go']
 +++
 
 Lorem markdownum sententia vulneris Ianthe nam primum per di conspecta nec mihi

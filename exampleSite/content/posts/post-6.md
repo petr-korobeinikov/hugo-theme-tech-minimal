@@ -3,7 +3,7 @@ title = 'Amor omnes'
 date = 2024-01-02T02:49:59+03:00
 draft = false
 tags = ['orange', 'gray']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum minus quid solent **studiosius laetos serpentis** cumque

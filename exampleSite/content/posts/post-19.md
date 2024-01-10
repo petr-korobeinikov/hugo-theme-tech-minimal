@@ -3,7 +3,7 @@ title = 'Sigeia timenda femur etiam resolvit cum deae'
 date = 2024-01-02T02:50:18+03:00
 draft = false
 tags = ['blue', 'red', 'green']
-categories = ['dx']
+categories = ['DX']
 +++
 
 Lorem markdownum captae glaebae vocat rustica ingenio. Ante mutet antiquas

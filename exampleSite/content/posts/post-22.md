@@ -3,7 +3,7 @@ title = 'Obrutaque numina mente'
 date = 2024-01-02T02:50:23+03:00
 draft = false
 tags = ['quux', 'faz']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum metu [tutam anima](http://discrimenmiserae.net/si-terga), non

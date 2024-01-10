@@ -3,7 +3,7 @@ title = 'Dum ne legem genialis pedum dapibus'
 date = 2024-01-02T02:50:11+03:00
 draft = false
 tags = ['red']
-categories = ['agile']
+categories = ['Agile']
 +++
 
 Lorem markdownum. Castrorum igne, invicti nihil. Astra et tibi, inmania urguet

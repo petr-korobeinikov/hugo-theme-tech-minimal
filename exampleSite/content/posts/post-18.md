@@ -3,7 +3,7 @@ title = 'Nocuisse explorat'
 date = 2024-01-02T02:50:17+03:00
 draft = false
 tags = ['magenta', 'red', 'green']
-categories = ['dx']
+categories = ['DX']
 +++
 
 Lorem markdownum auro sub, caelamina formam. Hunc fuerat? At fer genas annos in

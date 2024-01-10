@@ -3,7 +3,7 @@ title = 'Squamigeris mori flammas Eurydicenque optare in tympana'
 date = 2024-01-02T02:50:29+03:00
 draft = false
 tags = ['orange', 'gray']
-categories = ['dx']
+categories = ['DX']
 +++
 
 Lorem markdownum ingreditur lucis expers Priamidas adspicio non tamen, queant

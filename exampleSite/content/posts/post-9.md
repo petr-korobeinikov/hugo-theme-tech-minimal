@@ -3,7 +3,7 @@ title = 'Deum furores exiguus deficis calcatis tarde et'
 date = 2024-01-02T02:50:04+03:00
 draft = false
 tags = ['blue', 'red', 'green']
-categories = ['agile']
+categories = ['Agile']
 +++
 
 Lorem markdownum! **Si** fixit narrat esse quid hamos intrat: rebus regnum et

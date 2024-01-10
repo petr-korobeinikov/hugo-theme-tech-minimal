@@ -3,7 +3,7 @@ title = 'Est fratres certet adnuit tremebunda difficile nempe'
 date = 2024-01-02T02:50:14+03:00
 draft = false
 tags = ['orange', 'gray']
-categories = ['agile']
+categories = ['Agile']
 +++
 
 Lorem markdownum nebulas genitor: atque

@@ -3,7 +3,7 @@ title = 'Cum vineta'
 date = 2024-01-02T02:50:35+03:00
 draft = false
 tags = ['red', 'purple']
-categories = ['go']
+categories = ['Go']
 +++
 
 Lorem markdownum umbraeque *illa succedere superabat* aures obscuraque in

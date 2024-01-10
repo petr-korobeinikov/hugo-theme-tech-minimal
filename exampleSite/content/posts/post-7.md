@@ -3,7 +3,7 @@ title = 'Palaestina Romam sim editus calidi ad subit'
 date = 2024-01-02T02:50:01+03:00
 draft = false
 tags = ['blue', 'gray']
-categories = ['mindset']
+categories = ['Mindset']
 +++
 
 Lorem markdownum murra pater arduus, habitabile, vocatur pars fervebat

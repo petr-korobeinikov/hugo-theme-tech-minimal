@@ -3,7 +3,7 @@ title = 'Num ille aether'
 date = 2024-01-02T02:50:46+03:00
 draft = false
 tags = ['blue', 'gray']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum, tibi, tum stridore, avidosque indomitae Clytii! Phoebi peto!

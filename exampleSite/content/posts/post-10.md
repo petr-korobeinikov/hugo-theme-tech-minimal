@@ -3,7 +3,7 @@ title = 'Quod Cecropis neque agmen circumfususque Lyncides'
 date = 2024-01-02T02:50:05+03:00
 draft = false
 tags = ['red', 'purple']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum dum potuit sponda superabat extremo et forte regis ex duae

@@ -3,7 +3,7 @@ title = 'Aut meum denique murmurat'
 date = 2024-01-02T02:50:41+03:00
 draft = false
 tags = ['red']
-categories = ['go']
+categories = ['Go']
 +++
 
 Lorem markdownum incustoditae iamque habe, mihi foro Aeginae fugit et servabitur

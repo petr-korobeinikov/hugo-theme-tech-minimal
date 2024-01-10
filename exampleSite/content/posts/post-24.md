@@ -3,7 +3,7 @@ title = 'Canum pressa quae'
 date = 2024-01-02T02:50:26+03:00
 draft = false
 tags = ['red']
-categories = ['dx']
+categories = ['DX']
 +++
 
 Lorem markdownum, numine *pestiferos* gravidae laudando fonti arce factum votis,

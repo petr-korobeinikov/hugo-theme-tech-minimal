@@ -3,7 +3,7 @@ title = 'Morari sub arcanis certus'
 date = 2024-01-02T02:49:56+03:00
 draft = false
 tags = ['red']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum Aetolius tale Anguem thalami; oculosque hostibus rorant procul

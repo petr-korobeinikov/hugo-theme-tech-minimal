@@ -3,7 +3,7 @@ title = 'Lugebat conponere ut saevi vocesque mille'
 date = 2024-01-02T02:50:13+03:00
 draft = false
 tags = ['orange']
-categories = ['agile']
+categories = ['Agile']
 +++
 
 Lorem markdownum monstri sinat, pallae regno fulmina Lichae. Magis erit nec pars

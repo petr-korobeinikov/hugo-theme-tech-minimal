@@ -3,7 +3,7 @@ title = 'Dis in leve porrigitur menti pronus canibus'
 date = 2024-01-02T02:50:02+03:00
 draft = false
 tags = ['magenta', 'red', 'green']
-categories = ['mindset']
+categories = ['Mindset']
 +++
 
 Lorem markdownum nemorum [reliquit](http://meumcernis.org/superbussororum),

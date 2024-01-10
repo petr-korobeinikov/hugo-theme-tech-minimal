@@ -3,7 +3,7 @@ title = 'Ipse nec et sole Venilia'
 date = 2024-01-02T02:50:28+03:00
 draft = false
 tags = ['orange']
-categories = ['dx']
+categories = ['DX']
 +++
 
 Lorem markdownum conferat, pugnam, et suspicit dixit et *naides* nullus. Cives

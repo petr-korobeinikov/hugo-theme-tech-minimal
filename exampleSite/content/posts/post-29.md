@@ -3,7 +3,7 @@ title = 'Aequora Ausoniae desunt liquor'
 date = 2024-01-02T02:50:33+03:00
 draft = false
 tags = ['blue', 'red', 'green']
-categories = ['go']
+categories = ['Go']
 +++
 
 **Lorem** markdownum si plura ille aliter, Amor ut hoc strepitans una vana

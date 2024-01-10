@@ -3,7 +3,7 @@ title = 'Postquam referebam aurora crura ignara superosque haec'
 date = 2024-01-02T02:50:44+03:00
 draft = true
 tags = ['orange', 'gray']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum flagrat in stipite at quidem saepe quam longis? Facies carens.

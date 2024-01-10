@@ -3,7 +3,7 @@ title = 'Repulso dabat qui da curasque crimen'
 date = 2024-01-02T02:50:22+03:00
 draft = false
 tags = ['foo', 'bar']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum, templa sociis mille, profectu urbis

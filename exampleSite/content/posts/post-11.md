@@ -3,7 +3,7 @@ title = 'Probavit facies'
 date = 2024-01-02T02:50:07+03:00
 draft = false
 tags = ['foo', 'bar']
-categories = ['tooling']
+categories = ['Tooling']
 +++
 
 Lorem markdownum comites: tenebat tibi veri secutum secreta. Cibo custos
