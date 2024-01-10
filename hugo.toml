@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Tech Minimal'
+paginate = 10
 
 [taxonomies]
 tag = 'tags'

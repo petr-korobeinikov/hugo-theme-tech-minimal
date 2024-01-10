@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Tech Minimal'
 copyright = 'This is your copyright notice.'
+paginate = 10
 
 [[params.social]]
 name = "Telegram"

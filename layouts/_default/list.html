@@ -3,7 +3,9 @@
 
     {{ .Content }}
 
-    {{ range .Pages }}
+    {{ range .Paginator.Pages }}
         {{ partial "article.html" . }}
     {{ end }}
+
+    {{ partial "paginator.html" . }}
 {{ end }}
