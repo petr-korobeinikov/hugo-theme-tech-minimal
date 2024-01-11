@@ -120,6 +120,7 @@ time {
 }
 
 .site-description {
+  margin-top: 1em;
   display: flex;
   justify-content: space-between;
 }
@@ -130,6 +131,7 @@ time {
 
 .site-title {
   font-size: 2rem;
+  line-height: normal;
 }
 
 .site-subtitle {
