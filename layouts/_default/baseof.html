@@ -5,18 +5,20 @@
     {{ partial "head.html" . }}
 </head>
 <body>
-<header>
-    {{ partial "header.html" . }}
-</header>
-<main>
-    {{ block "main" . }}{{ end }}
-</main>
-<footer>
-    {{ partial "footer.html" . }}
-</footer>
+<div class="site-container">
+    <header>
+        {{ partial "header.html" . }}
+    </header>
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+        {{ partial "footer.html" . }}
+    </footer>
 
-{{ if not .Site.IsServer }}
-    {{ template "_internal/google_analytics.html" . }}
-{{ end }}
+    {{ if not .Site.IsServer }}
+        {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+</div>
 </body>
 </html>
