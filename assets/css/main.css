@@ -233,3 +233,7 @@ time {
 .pagination .page-item.page-next {
   text-align: right;
 }
+
+.footnotes p {
+  margin: 0;
+}
