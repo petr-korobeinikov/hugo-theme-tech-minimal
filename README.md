@@ -50,9 +50,9 @@ hugo server \
 
 ## Thanks
 
-This theme heavily inspired by vividvilla/ezhil.
+This theme heavily inspired by [vividvilla/ezhil](https://github.com/vividvilla/ezhil).
 
-Special thanks to @jaspervdj for markdown lorem ipsum generator with HTTP API:
+Special thanks to [@jaspervdj](https://github.com/jaspervdj) for markdown lorem ipsum generator with HTTP API:
 
 - https://jaspervdj.be/lorem-markdownum/
 - https://github.com/jaspervdj/lorem-markdownum
