@@ -19,6 +19,18 @@ git submodule add \
 
 ## Configuration
 
+See `exampleSite/hugo.toml` for example.
+
+```toml
+...
+
+[params]
+subtitle = 'Clean, minimal, and adaptive theme for tech blog'
+postsPerHomePage = 3
+
+...
+```
+
 ## Page Speed
 
 - https://pagespeed.web.dev/analysis/https-petr-korobeinikov-github-io-hugo-theme-tech-minimal/b0m75saw5j?form_factor=desktop
