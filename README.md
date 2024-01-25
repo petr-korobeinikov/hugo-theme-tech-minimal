@@ -1,12 +1,6 @@
 # hugo-theme-tech-minimal
 
-### Dark theme
-
-![Home page dark screenshot](.readme/screenshot_dark_home.png)
-
-### Light theme
-
-![Home page light screenshot](.readme/screenshot_light_home.png)
+![Home page dark/light screenshot](.readme/preview_light_dark.png)
 
 ## Features
 
