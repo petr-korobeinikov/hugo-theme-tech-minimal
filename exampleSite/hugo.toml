@@ -4,6 +4,9 @@ title = 'Tech Minimal'
 copyright = 'This is your copyright notice.'
 paginate = 10
 
+# https://discourse.gohugo.io/t/how-can-i-force-tags-to-be-all-lowercase/48420/2
+titleCaseStyle = 'none'
+
 [[params.social]]
 name = "Telegram"
 icon = "telegram"
