@@ -1,0 +1,4 @@
+[tools]
+gohugo = "extended_0.129.0"
+python = "3.11.3"
+"pipx:pre-commit" = "4.0.1"
