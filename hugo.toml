@@ -1,7 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Tech Minimal'
-paginate = 10
+copyright = 'This is your copyright notice.'
+
+[pagination]
+pagerSize = 10
+
+# https://discourse.gohugo.io/t/how-can-i-force-tags-to-be-all-lowercase/48420/2
+titleCaseStyle = 'none'
 
 [taxonomies]
 tag = 'tags'
